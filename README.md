@@ -7,6 +7,8 @@ normal run saves an `artwork.kra`, an `artwork.png`, and a replayable
 `rollout.json` under `runs/`. The included demo uses a vision-capable model
 through OpenRouter and renders a live Rich trace while the agent works.
 
+<img width="2497" height="1409" alt="Screenshot from 2026-08-29 21-23-38" src="https://github.com/user-attachments/assets/e9d66ebb-aff3-4f21-acb1-5f6d0dc8c42d" />
+
 ## Requirements
 
 - Linux on x86-64, `git`, and `curl`.
